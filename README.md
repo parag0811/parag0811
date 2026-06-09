@@ -38,9 +38,7 @@ const parag = {
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=parag0811&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff6b35&icon_color=ff6b35&text_color=c8d3f5&count_private=true"/>
-&nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parag0811&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff6b35&text_color=c8d3f5&langs_count=6"/>
+<img src="https://streak-stats.demolab.com?user=parag0811&theme=tokyonight&hide_border=true&background=0d1117&ring=ff6b35&fire=ff6b35&currStreakLabel=ff6b35" alt="GitHub Streak"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:ff6b35,100:0a0d1a&section=footer" width="100%"/>
 
